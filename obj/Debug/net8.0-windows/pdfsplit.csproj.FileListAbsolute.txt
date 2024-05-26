@@ -32,3 +32,4 @@ C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
 C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\PdfSharp.dll
 C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
 C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.sourcelink.json

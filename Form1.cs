@@ -78,8 +78,13 @@ namespace pdfsplit
                     //Console.WriteLine($"Row {row}: A={cellValue}, N={nColumnValue}");
                     textBox1.AppendText("엑셀파일: " + Path.GetFileName(filePath) + 
                            $"처리행: {row}: PDF명={pdfName}, 페이지수:{pageCnt}, 시작페이지:{startPageNo}, 끝페이지:{finishPageNo}, 출력파일: {outPdfName}.pdf" + Environment.NewLine);
-
                     int ret = pdfsplit(pdfName, outPdfName, startPageNo, finishPageNo, row);
+                    if (ret != 0)
+                    {
+                        textBox1.AppendText("###### PDF 오류: " + Path.GetFileName(filePath) + 
+                            $"처리행: {row}: PDF명={pdfName}, 페이지수:{pageCnt}, 시작페이지:{startPageNo}, 끝페이지:{finishPageNo}, 출력파일: {outPdfName}.pdf" + Environment.NewLine);
+                    }
+
 
                     startPageNo = finishPageNo + 1;
                     tmpPdf = pdfName;
