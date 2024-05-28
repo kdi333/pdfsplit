@@ -7,7 +7,10 @@
       "RelativeMoniker": "D:0:0:{9AF92910-58C4-43DD-911B-8F67516A7073}|pdfsplit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AF92910-58C4-43DD-911B-8F67516A7073}|pdfsplit.csproj|c:\\dev\\csharp\\pdfsplit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\333\\AppData\\Local\\SourceServer\\e2c81a60527e661b095dc0d7bb34c5a8eed432d40d2652334f6c809402fd0b85\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF92910-58C4-43DD-911B-8F67516A7073}|pdfsplit.csproj|C:\\dev\\csharp\\pdfsplit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9AF92910-58C4-43DD-911B-8F67516A7073}|pdfsplit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,8 +21,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Number.Parsing.cs",
+              "DocumentMoniker": "C:\\Users\\333\\AppData\\Local\\SourceServer\\e2c81a60527e661b095dc0d7bb34c5a8eed432d40d2652334f6c809402fd0b85\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\333\\AppData\\Local\\SourceServer\\e2c81a60527e661b095dc0d7bb34c5a8eed432d40d2652334f6c809402fd0b85\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
+              "ToolTip": "C:\\Users\\333\\AppData\\Local\\SourceServer\\e2c81a60527e661b095dc0d7bb34c5a8eed432d40d2652334f6c809402fd0b85\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\Users\\333\\AppData\\Local\\SourceServer\\e2c81a60527e661b095dc0d7bb34c5a8eed432d40d2652334f6c809402fd0b85\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAEsFAAAAAAAAAAD4v2cFAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:41:22.336Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +44,21 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\dev\\csharp\\pdfsplit\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAUwFYAAAAAAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAEwHsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T08:03:17.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\dev\\csharp\\pdfsplit\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\dev\\csharp\\pdfsplit\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T08:00:09.508Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2024-05-26T08:00:09.508Z"
             }
           ]
         }

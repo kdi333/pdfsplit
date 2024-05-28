@@ -121,6 +121,7 @@ namespace pdfsplit
             }
             catch (Exception e)
             {
+                textBox1.AppendText(e.ToString());
                 Console.WriteLine(e.ToString());
 
                 return 1;

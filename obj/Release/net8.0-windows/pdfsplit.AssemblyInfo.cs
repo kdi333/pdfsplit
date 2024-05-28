@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pdfsplit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792137ead453f0742c2b75fa4cd0ba7cc6e470b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b3cf1a9093a6bfdf369443855fbc4737f7c3bcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("pdfsplit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pdfsplit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

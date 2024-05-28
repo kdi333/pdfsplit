@@ -15,6 +15,10 @@ C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProvide
 C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
 C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.csproj.AssemblyReference.cache
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.Form1.resources
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.csproj.GenerateResource.cache
@@ -22,14 +26,10 @@ C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.GeneratedMSBuildEditorC
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.AssemblyInfoInputs.cache
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.AssemblyInfo.cs
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.csproj.CoreCompileInputs.cache
+C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.sourcelink.json
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.csproj.Up2Date
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.dll
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\refint\pdfsplit.dll
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.pdb
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.genruntimeconfig.cache
 C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\ref\pdfsplit.dll
-C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
-C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\PdfSharp.dll
-C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
-C:\dev\csharp\pdfsplit\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
-C:\dev\csharp\pdfsplit\obj\Debug\net8.0-windows\pdfsplit.sourcelink.json
